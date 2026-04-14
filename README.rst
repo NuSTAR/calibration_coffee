@@ -24,6 +24,7 @@ List of Meetings
 
 
 1. 20240306 - MLI Correction
-2. 20241002 - Bright Source Processing and Background
-3. 20250327 - MLI Updates
-4. 20260414 - Occultation lightcurve dips and FPMB MLI update
+2. 20241002 - Bright Source Processing
+3. 20241107 - The NuSTAR Background
+3. 20250327 - FPMB MLI Updates
+4. 20260414 - Occultation lightcurve dips and further FPMB MLI update
