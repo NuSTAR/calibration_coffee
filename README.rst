@@ -5,7 +5,7 @@ NuSTAR Calibration Coffee
 Nuclear Spectroscopic Telescope ARray
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://nustar.caltech.edu/image/nustarconcept02-artists-concept-of-nustar
+.. image:: https://nustar.caltech.edu/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNNIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ce6097d828c78d38715de028dcc312fd0a024282/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkMzSmxjMmw2WlVraURURXdNalI0TnpZNUJqb0dSVlE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--22e6756c79e54fff34d7d04b1f622b45e8185a60/nustar_artistconcept_2.jpg
     :target: http://www.nustar.caltech.edu
     :alt: NuSTAR
 
