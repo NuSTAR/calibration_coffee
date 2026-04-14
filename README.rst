@@ -5,9 +5,16 @@ NuSTAR Calibration Coffee
 Nuclear Spectroscopic Telescope ARray
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: https://www.nustar.caltech.edu/system/avm_image_sqls/binaries/26/page/nustar_artistconcept_2.jpg?1393022433
+.. image:: https://nustar.caltech.edu/image/nustarconcept02-artists-concept-of-nustar
     :target: http://www.nustar.caltech.edu
     :alt: NuSTAR
+
+
+NuSTAR Resources
+----------------
+
+1. `NuSTAR at the HEASARC <https://heasarc.gsfc.nasa.gov/docs/nustar/`_
+
 
 List of Meetings
 -----------------
@@ -16,3 +23,4 @@ List of Meetings
 1. 20240306 - MLI Correction
 2. 20241002 - Bright Source Processing and Background
 3. 20250327 - MLI Updates
+4. 20260414 - Occultation lightcurve dips and FPMB MLI update
