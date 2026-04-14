@@ -13,7 +13,7 @@ Nuclear Spectroscopic Telescope ARray
 NuSTAR Resources
 ----------------
 
-1. `NuSTAR at the HEASARC <https://heasarc.gsfc.nasa.gov/docs/nustar/`_
+1. `NuSTAR at the HEASARC <https://heasarc.gsfc.nasa.gov/docs/nustar/>`_
 
 
 List of Meetings
