@@ -14,7 +14,10 @@ NuSTAR Resources
 ----------------
 
 1. `NuSTAR at the HEASARC <https://heasarc.gsfc.nasa.gov/docs/nustar/>`_
-
+2. `NuSTAR Software User's Guide <https://heasarc.gsfc.nasa.gov/docs/nustar/analysis/nustar_swguide.pdf>`_
+3. `NuSTAR Quickstart Guide <https://heasarc.gsfc.nasa.gov/docs/nustar/analysis/nustar_quickstart_guide.pdf>`_
+4. `NuSTAR Science Operations Center <https://nustarsoc.caltech.edu/NuSTAR_Public/NuSTAROperationSite/Home.php>`_
+5. `nustar-gen-utitls Git Hib <https://github.com/NuSTAR/nustar-gen-utils>`_ and `read-the-docs <https://nustar-gen-utils.readthedocs.io/en/latest/`_
 
 List of Meetings
 -----------------
